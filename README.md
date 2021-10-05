@@ -1,1 +1,20 @@
-# valdineial
+- :fast_forward: Olá eu me chamo Valdineia
+- :heartbeat: 	:computer: Apaixonada por tecnologia.
+- :briefcase: :mag_right:	 Estou em busca de uma oportunidade de trabalho na area de desenvolvimento, só preciso de uma oportunidade para mostrar o meu potencial. 
+- 👩‍💻: sou curiosa e tenho interesse e facilidade em aprender coisas novas. 
+
+# LINGUAGEM 	
+
+- JavaScript
+- HTML
+- CSS
+
+# FERRAMENTAS
+
+- VSCode
+- Nodejs
+
+# CONTATO
+
+- :e-mail: E-mail: lorenzetti056@gmail.com
+- :telephone_receiver: Celular: (65) 98175-6603
